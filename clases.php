@@ -1,8 +1,5 @@
 <?php
 
-use Admin as GlobalAdmin;
-use User as GlobalUser;
-
 class Person {
   public function greet() {
     return "Hola $this->name";
@@ -21,4 +18,4 @@ $user = new User;
 $user->type = new Admin;
 echo $user->type->greet();
 
-echo '\n';
+echo "\n";
