@@ -1,1 +1,1 @@
-# POO-PHP-platzi
+# Curso de POO de Platzi
